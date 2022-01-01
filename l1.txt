@@ -2,11 +2,6 @@
 check for pull
 
 
-<<<<<<< HEAD
-This is Tushar
-
-=======
->>>>>>> parent of 44da05f (Revert "for revert l1.txt get data")
 
 
-
+for revert
