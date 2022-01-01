@@ -12,12 +12,9 @@ This is for soft reset by dev 2
 #######################################
 ######################################
 
-<<<<<<< HEAD
 For reset ----------------
 
 this is change for pull conflict by dev 2
 
 This is changed by dev 3
-=======
->>>>>>> parent of 489fdf2 (This is for checkout)
 
